@@ -1,11 +1,9 @@
-## Bem-vindo(a) ao perfil de Tarcisio Geovane 😁
+## Welcome to Tarcisio's profile 😁
 
  <div>
    <a href="https://github.com/tarcisiogeovane!>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarcisiogeovane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiogeovane&layout=compact&langs_count=6&theme=tokyonight"/>
-    <img align="right" alt="Coding" width="250" src="https://i.gifer.com/3AyY.gif">
-
 </div>
 
     
@@ -17,7 +15,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue nas redes abaixo!
+### Pra conteúdo sobre programação me segue nas redes abaixo!     <img align="right" alt="Coding" width="250" src="https://i.gifer.com/3AyY.gif">
  
 <div> 
   <a href="https://www.youtube.com/@zahrr1172" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
