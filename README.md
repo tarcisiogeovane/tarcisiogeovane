@@ -15,7 +15,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue nas redes abaixo!     <img align="right" alt="Coding" width="300" src="https://i.gifer.com/3AyY.gif">
+### For more programming content, follow me!     <img align="right" alt="Coding" width="300" src="https://i.gifer.com/3AyY.gif">
  
 <div> 
   <a href="https://www.youtube.com/@zahrr1172" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
