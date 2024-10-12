@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil de Tarcisio Geovane 😁
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/3AyY.gif">
 
  <div>
    <a href="https://github.com/tarcisiogeovane!>
