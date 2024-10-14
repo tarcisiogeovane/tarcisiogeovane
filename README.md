@@ -1,10 +1,10 @@
 ## Welcome to my profile 😁
 
 <a href="https://github.com/tarcisiogeovane/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisiogeovane&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisiogeovane&theme=dark" />
 </a>
 <a href="https://github.com/tarcisiogeovane/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarcisiogeovane&layout=compact&theme=dark&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarcisiogeovane&layout=compact&theme=dark&langs_count=8&card_width=280" />
 </a>
 
 
