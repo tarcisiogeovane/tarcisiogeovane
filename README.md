@@ -8,8 +8,69 @@
 </a>
 
 
+<h3 align="left"> Languages and Tools:</h3>
+<kbd>
+  <br>
+  <p style="display: inline-block;" align="center">
+    <!-- Programming Languages no topo -->
+    <kbd>
+      <kbd>Programming Languages</kbd>
+      <br><br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+    </kbd>
+    
+ 
+  <kbd>
+    <kbd>Back-end</kbd>
+      <br><br>
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" 
+        alt="python" width="40" height="40"/>
+      </a>
+    </kbd>
 
-### Languages and Tools:
+  <kbd>
+      <kbd>Front-end</kbd>
+      <br><br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    </kbd>
+
+   <kbd>
+      <kbd>Database</kbd>
+      <br><br>
+      <img width="30px" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/mysql/mysql-plain.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    </kbd>
+
+   <kbd>
+      <kbd>System, Networking & Deployment</kbd>
+      <br><br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    </kbd>
+    
+  <kbd>
+      <kbd>Terminal Scripts</kbd>
+      <br><br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    </kbd>
+
+   <kbd>
+      <kbd>Tools</kbd>
+      <br><br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+      <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
+    </kbd>
+  </p>
+</kbd>
+
+
+     
+<!-- ### Languages and Tools:
 
 <div>
   
@@ -23,7 +84,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
 </div>
-    
+
+-->
 <br>
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  For more programming content, follow me!     <img align="right" alt="Coding" width="300" src="https://i.gifer.com/3AyY.gif">
