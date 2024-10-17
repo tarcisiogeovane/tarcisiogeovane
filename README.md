@@ -36,6 +36,6 @@
 </div>
 
 
-<h2 align="center">My another Github Stat</h2>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisiogeovane&theme=holi-theme">
+<h2>My another Github Stats</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisiogeovane&theme=holi-theme">
 
