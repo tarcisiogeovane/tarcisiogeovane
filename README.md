@@ -36,13 +36,7 @@
 </div>
 
 
-<h2 align="center">My another Github Statuses</h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiogeovane&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisiogeovane&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
+<h2 align="center">My another Github Stat</h2>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisiogeovane&theme=holi-theme">
 </p>
