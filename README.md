@@ -37,6 +37,5 @@
 
 
 <h2 align="center">My another Github Stat</h2>
-<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisiogeovane&theme=holi-theme">
-</p>
+
