@@ -1,7 +1,7 @@
 ## Welcome to my profile 😁
 
 <a href="https://github.com/tarcisiogeovane/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisiogeovane&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisiogeovane&count_private=true&show_icons=trueline_height=21&theme=github_dark" />
 </a>
 <a href="https://github.com/tarcisiogeovane/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiogeovane&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb" />
