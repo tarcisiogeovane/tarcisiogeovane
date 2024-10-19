@@ -10,9 +10,9 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
   <!-- Top: Programming Languages and Back-end -->
-  <div style="margin-bottom: 20px; text-align: center;">
+  <div style="margin-bottom: 20px;">
     <kbd>
       <kbd>Programming Languages</kbd>
       <br><br>
@@ -30,7 +30,7 @@
   </div>
 
   <!-- Middle: Front-end, Database, System -->
-  <div style="margin-bottom: 20px; text-align: center;">
+  <div style="margin-bottom: 20px;">
     <kbd>
       <kbd>Front-end</kbd>
       <br><br>
@@ -39,10 +39,10 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     </kbd>
 
-   <kbd>
+  <kbd>
       <kbd>Database</kbd>
       <br><br>
-      <img width="30px" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/mysql/mysql-plain.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
     </kbd>
 
@@ -54,7 +54,7 @@
   </div>
 
   <!-- Bottom: Terminal Scripts and Tools -->
-  <div style="text-align: center;">
+  <div>
     <kbd>
       <kbd>Terminal Scripts</kbd>
       <br><br>
