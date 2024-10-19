@@ -7,12 +7,14 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiogeovane&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb" />
 </a>
 
+<h3 align="center">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
-  <!-- Top: Programming Languages and Back-end -->
-  <div style="margin-bottom: 20px;">
+<div align="center">
+  
+<kbd>
+  <br>
+  <p style="display: inline-block;" align="center">
     <kbd>
       <kbd>Programming Languages</kbd>
       <br><br>
@@ -21,41 +23,37 @@
     </kbd>
 
   <kbd>
-      <kbd>Back-end</kbd>
+     <kbd>Back-end</kbd>
       <br><br>
       <a href="https://www.python.org" target="_blank">
-        <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" alt="python" width="40" height="40"/>
+        <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" 
+        alt="python" width="40" height="40"/>
       </a>
     </kbd>
-  </div>
+   <br><br>
 
-  <!-- Middle: Front-end, Database, System -->
-  <div style="margin-bottom: 20px;">
-    <kbd>
+   <kbd>
       <kbd>Front-end</kbd>
-      <br><br>
+<br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     </kbd>
 
-  <kbd>
+<kbd>
       <kbd>Database</kbd>
       <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+      <img width="30px" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/mysql/mysql-plain.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-    </kbd>
+</kbd>
 
   <kbd>
       <kbd>System, Networking & Deployment</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     </kbd>
-  </div>
-
-  <!-- Bottom: Terminal Scripts and Tools -->
-  <div>
-    <kbd>
+<br></br>
+  <kbd>
       <kbd>Terminal Scripts</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -69,10 +67,11 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
       <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
     </kbd>
-  </div>
+  </p>
+</kbd>
+
+
 </div>
-
-
      
 <!-- ### Languages and Tools:
 
