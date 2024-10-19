@@ -8,29 +8,30 @@
 </a>
 
 
-<h3 align="left"> Languages and Tools:</h3>
-<kbd>
-  <br>
-  <p style="display: inline-block;" align="center">
-    <!-- Programming Languages no topo -->
+<h3 align="left">Languages and Tools:</h3>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <!-- Top: Programming Languages and Back-end -->
+  <div style="margin-bottom: 20px;">
     <kbd>
       <kbd>Programming Languages</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
     </kbd>
-    
- 
-  <kbd>
-    <kbd>Back-end</kbd>
+
+   <kbd>
+      <kbd>Back-end</kbd>
       <br><br>
       <a href="https://www.python.org" target="_blank">
-        <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" 
-        alt="python" width="40" height="40"/>
+        <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" alt="python" width="40" height="40"/>
       </a>
     </kbd>
+  </div>
 
-  <kbd>
+  <!-- Middle: Front-end, Database, System -->
+  <div style="margin-bottom: 20px;">
+    <kbd>
       <kbd>Front-end</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
@@ -45,28 +46,31 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
     </kbd>
 
-   <kbd>
+  <kbd>
       <kbd>System, Networking & Deployment</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     </kbd>
-    
-  <kbd>
+  </div>
+
+  <!-- Bottom: Terminal Scripts and Tools -->
+  <div>
+    <kbd>
       <kbd>Terminal Scripts</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
     </kbd>
 
-   <kbd>
+  <kbd>
       <kbd>Tools</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
       <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
     </kbd>
-  </p>
-</kbd>
+  </div>
+</div>
 
 
      
