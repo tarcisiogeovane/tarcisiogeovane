@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
   <!-- Top: Programming Languages and Back-end -->
   <div style="margin-bottom: 20px;">
     <kbd>
