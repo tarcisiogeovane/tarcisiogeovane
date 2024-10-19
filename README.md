@@ -10,66 +10,66 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
-  <!-- Top: Programming Languages and Back-end -->
-  <div style="margin-bottom: 20px; align-items: center;">
-    <kbd>
-      <kbd>Programming Languages</kbd>
-      <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
-    </kbd>
-
-   <kbd>
-      <kbd>Back-end</kbd>
-      <br><br>
-      <a href="https://www.python.org" target="_blank" align-items: center;>
-        <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" alt="python" width="40" height="40"/>
-      </a>
-    </kbd>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+  
+  <!-- Programming Languages no topo -->
+  <div style="text-align: center; margin-bottom: 20px;">
+    <kbd>Programming Languages</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
   </div>
 
-  <!-- Middle: Front-end, Database, System -->
-  <div style="margin-bottom: 20px;">
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    </kbd>
-
-  <kbd>
-      <kbd>Database</kbd>
-      <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-    </kbd>
-
-  <kbd>
-      <kbd>System, Networking & Deployment</kbd>
-      <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    </kbd>
+  <!-- Back-end -->
+  <div style="text-align: center; margin-bottom: 20px;">
+    <kbd>Back-end</kbd>
+    <br><br>
+    <a href="https://www.python.org" target="_blank">
+      <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" alt="python" width="40" height="40"/>
+    </a>
   </div>
 
-  <!-- Bottom: Terminal Scripts and Tools -->
-  <div>
-    <kbd>
-      <kbd>Terminal Scripts</kbd>
-      <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-    </kbd>
-
-   <kbd>
-      <kbd>Tools</kbd>
-      <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-      <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
-    </kbd>
+  <!-- Front-end -->
+  <div style="text-align: center; margin-bottom: 20px;">
+    <kbd>Front-end</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
+
+  <!-- Database -->
+  <div style="text-align: center; margin-bottom: 20px;">
+    <kbd>Database</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+  </div>
+
+  <!-- System, Networking & Deployment -->
+  <div style="text-align: center; margin-bottom: 20px;">
+    <kbd>System, Networking & Deployment</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  </div>
+
+  <!-- Terminal Scripts -->
+  <div style="text-align: center; margin-bottom: 20px;">
+    <kbd>Terminal Scripts</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  </div>
+
+  <!-- Tools -->
+  <div style="text-align: center;">
+    <kbd>Tools</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
+  </div>
+  
 </div>
 
      
