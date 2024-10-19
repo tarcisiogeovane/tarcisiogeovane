@@ -12,7 +12,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
   <!-- Top: Programming Languages and Back-end -->
-  <div style="margin-bottom: 20px; align-items: center;">
+  <div style="margin-bottom: 20px; align-items: center>
     <kbd>
       <kbd>Programming Languages</kbd>
       <br><br>
@@ -23,7 +23,7 @@
    <kbd>
       <kbd>Back-end</kbd>
       <br><br>
-      <a href="https://www.python.org" target="_blank">
+      <a href="https://www.python.org" target="_blank" align-items: center;>
         <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" alt="python" width="40" height="40"/>
       </a>
     </kbd>
