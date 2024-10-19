@@ -8,11 +8,11 @@
 </a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
   <!-- Top: Programming Languages and Back-end -->
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; text-align: center;">
     <kbd>
       <kbd>Programming Languages</kbd>
       <br><br>
@@ -30,7 +30,7 @@
   </div>
 
   <!-- Middle: Front-end, Database, System -->
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; text-align: center;">
     <kbd>
       <kbd>Front-end</kbd>
       <br><br>
@@ -54,7 +54,7 @@
   </div>
 
   <!-- Bottom: Terminal Scripts and Tools -->
-  <div>
+  <div style="text-align: center;">
     <kbd>
       <kbd>Terminal Scripts</kbd>
       <br><br>
@@ -62,7 +62,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
     </kbd>
 
-  <kbd>
+   <kbd>
       <kbd>Tools</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -71,7 +71,6 @@
     </kbd>
   </div>
 </div>
-
 
      
 <!-- ### Languages and Tools:
