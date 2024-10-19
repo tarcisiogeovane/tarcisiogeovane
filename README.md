@@ -12,7 +12,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
   <!-- Top: Programming Languages and Back-end -->
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; align-items: center;">
     <kbd>
       <kbd>Programming Languages</kbd>
       <br><br>
