@@ -7,7 +7,6 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiogeovane&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb" />
 </a>
 
-
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
