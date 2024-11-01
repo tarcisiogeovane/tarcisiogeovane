@@ -1,4 +1,4 @@
-### **Welcome to my profile** 😊😁
+### Welcome to my profile 😊😁
 
 <a href="https://github.com/tarcisiogeovane/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisiogeovane&count_private=true&show_icons=trueline_height=21&theme=github_dark" />
@@ -87,15 +87,8 @@
 </div>
 
 
-<h2>My another Github Stats</h2>
+<h2>My another Github Stats</h2> 🐉
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisiogeovane&theme=holi-theme">
-
-
-
-
-
-
-
 
 
 <p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/tarcisiogeovane?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/tarcisiogeovane/?style=for-the-badge"/>
