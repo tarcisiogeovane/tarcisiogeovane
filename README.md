@@ -87,7 +87,7 @@
 </div>
 
 
-<h2>My Github Stats</h2> 🐉
+<h2>My Github Stats</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisiogeovane&theme=holi-theme">
 
 
