@@ -43,7 +43,7 @@
 <kbd>
       <kbd>Database</kbd>
       <br><br>
-      <img width="30px" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/mysql/mysql-plain.svg" />
+      <img width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 </kbd>
 
