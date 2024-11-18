@@ -1,4 +1,4 @@
-### Welcome to my profile 
+### Welcome to my profile 😁
 
 
 <a href="https://github.com/tarcisiogeovane/github-readme-stats">
