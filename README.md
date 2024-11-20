@@ -78,7 +78,7 @@
 <br>
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  For more programming content, follow!     <img align="right" alt="Coding" width="300" src="https://i.gifer.com/3AyY.gif">
-
+Game development news soon
 
 <div> 
   <a href="https://www.linkedin.com/in/tarcisiogeovanecoding" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
