@@ -1,4 +1,4 @@
-<h3 align="center">Hello World!</h3>
+<h2 align="center">Hello World!</h2>
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 </div>
 
 
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
 
