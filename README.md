@@ -1,5 +1,6 @@
-### Welcome to my profile 😁
+<h3 align="center">Hello World!</h3>
 
+<div align="center">
 
 <a href="https://github.com/tarcisiogeovane/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisiogeovane&count_private=true&show_icons=trueline_height=21&theme=github_dark" />
@@ -7,8 +8,10 @@
 <a href="https://github.com/tarcisiogeovane/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiogeovane&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb" />
 </a>
+</div>
 
-<h3 align="center">Languages and Tools</h3>
+
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
   
@@ -77,17 +80,10 @@
 
 <br>
  
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  For more programming content, follow!     <img align="right" alt="Coding" width="300" src="https://i.gifer.com/3AyY.gif">
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  For more programming content, follow!     <img align="right" alt="Coding" width="300" src="https://i.gifer.com/3AyY.gif">
 News as soon as possible!!
 
-
-<div> 
-  <a href="https://www.linkedin.com/in/tarcisiogeovanecoding" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@zahrr1172" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:tarcisio.geovane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarcisiogeovanecoding) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tarcesio137) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zahrr1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@zahrr1172) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarcisio.geovane@gmail.com) 
 
 <h2>My Github Stats </h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisiogeovane&theme=holi-theme">
@@ -102,3 +98,7 @@ News as soon as possible!!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+
+
