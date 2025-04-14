@@ -14,66 +14,109 @@
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
-  
+
 <kbd>
+
+  <kbd>
   <br>
   <p style="display: inline-block;" align="center">
     <kbd>
-      <kbd>Programming Languages </kbd>
-      <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+      🧠 Programming Languages
     </kbd>
+      <p> 
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> 
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
+        <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+        <img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran"/> 
+      </p> 
+      <p> 
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
+        <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/> 
+        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> 
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> 
+        <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/> 
+      </p>
+  </kbd>
 
 
   <kbd>
-     <kbd>Back-end</kbd>
+      <kbd>
+       🌐 Web Development
+      </kbd>
       <br><br>
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" 
-        alt="python" width="40" height="40"/>
-      </a>
-    </kbd>
+      <p>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+      </p>
+  </kbd>
    <br><br>
 
-   <kbd>
-      <kbd>Front-end</kbd>
-<br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    </kbd>
-
-<kbd>
-      <kbd>Database</kbd>
-      <br><br>
-      <img width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-</kbd>
+  <kbd>
+      <kbd>
+        🧪 Data Science & Analysis
+      </kbd>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+          <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+          <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+          <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="Apache Spark"/>
+        </p>
+  </kbd>
 
   <kbd>
-      <kbd>System, Networking & Deployment</kbd>
-      <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+      <kbd>
+        🗃️ Databases
+      </kbd>
+        <br><br>
+          <p>
+            <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+            <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+          </p>
+          <p>
+            <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+          </p>
+  </kbd>
+
+   <kbd>
+      <kbd>
+        ⚙️ Tools & Platforms
+      </kbd>
+        <br><br>
+        <p> 
+          <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+          <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/> 
+          <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/> 
+          <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/> 
+          <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/> 
+        </p>
     </kbd>
 <br></br>
-  <kbd>
-      <kbd>Terminal Scripts</kbd>
-      <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-    </kbd>
 
   <kbd>
-      <kbd>Tools</kbd>
-      <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-      <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
-    </kbd>
-  </p>
+      <kbd> 
+        🎮 Games & Entertainment
+      </kbd>
+        <br><br>
+        <p> 
+          <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/> 
+          <img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="Battle.net"/> 
+        </p>
+  </kbd>
+  
 </kbd>
-
 
 </div>
      
@@ -98,7 +141,6 @@ News as soon as possible!!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
 
 
 
