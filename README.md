@@ -124,17 +124,21 @@
 <br>
  
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  For more programming content, follow!     <img align="right" alt="Coding" width="300" src="https://i.gifer.com/3AyY.gif">
-News as soon as possible!!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarcisiogeovanecoding) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tarcesio137) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zahrr1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@zahrr1172) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarcisio.geovane@gmail.com) 
 
-<h2>My Github Stats </h2>
+
+<h3>
+  My Github Stats!
+</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisiogeovane&theme=holi-theme">
 
+  <p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/tarcisiogeovane?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/tarcisiogeovane/?style=for-the-badge"/>
+  </p>
+  <p align="center"><img src="https://badges.pufler.dev/commits/monthly/tarcisiogeovane"/>
+  </p>
 
-<p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/tarcisiogeovane?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/tarcisiogeovane/?style=for-the-badge"/>
-</p>
-<p align="center"><img src="https://badges.pufler.dev/commits/monthly/tarcisiogeovane"/></p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
