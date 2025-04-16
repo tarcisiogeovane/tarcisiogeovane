@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1d3aeb6b-bf02-4a9c-9a5f-28354dd090b6)<p><h2 align="center">def hello_world("print"): </p>
+<p><h2 align="center">def hello_world("print"): </p>
 print("Hello, world!")</h2>
 
 <h2 align="center">💻 Tech Stack</h2>
