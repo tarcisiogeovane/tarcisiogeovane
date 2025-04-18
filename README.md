@@ -1,7 +1,7 @@
 <p><h2 align="center">def hello_world("print"): </p>
 print("Hello, world!")</h2>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack </h2>
 
 <div align="center">
 
@@ -31,7 +31,7 @@ print("Hello, world!")</h2>
 
   <kbd>
       <kbd>
-       🌐 Web Development
+       🌐 Web 
       </kbd>
       <br><br>
       <p>
