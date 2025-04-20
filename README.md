@@ -31,7 +31,7 @@ print("Hello, world!")</h2>
 
   <kbd>
       <kbd>
-       🌐 Web 
+       🌐 Web Development  
       </kbd>
       <br><br>
       <p>
